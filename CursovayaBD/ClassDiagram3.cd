@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CursovayaBD.Admin_panel">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>RTQIQAKBACAQDhEMIgKABALCKGASkjIIcmAPYAAYBBA=</HashCode>
+      <FileName>Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CursovayaBD.LoginClient">
+    <Position X="6.75" Y="5.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAACCAAhAAAACAAAASQEIAACBAAAAAAQBAADA=</HashCode>
+      <FileName>LoginClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CursovayaBD.LoginForm">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABQBAARAACAAAhAAEACAAAQCQEIIACAAAUAAAQBAADA=</HashCode>
+      <FileName>LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CursovayaBD.Meny">
+    <Position X="1.25" Y="1.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QBAAAAAAgCAEABAAAACIAAACAAAAABAAEEAEAQAAAAA=</HashCode>
+      <FileName>Meny.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CursovayaBD.Program">
+    <Position X="1.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CursovayaBD.RegisterForm">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQwAAEAECAAAhAACECAAAECCEAEACRAAQAAAwAAADA=</HashCode>
+      <FileName>RegisterForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CursovayaBD.RegisterUserForm">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAQwABAAECAAABAACECAABACAEAAACQCAQAAAwBAABA=</HashCode>
+      <FileName>RegisterUserForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CursovayaBD.Zakaz">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="CursovayaBD.Zakaz.Stroka" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Zakaz.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ALQAAAUAACAAABEAEBCACAASAEA8ACAAEHAIAQEAQAI=</HashCode>
+      <FileName>Zakaz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
